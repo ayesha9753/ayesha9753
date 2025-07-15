@@ -42,7 +42,7 @@ I’m open to opportunities that allow me to apply and grow my skills — whethe
 🔹 [Flask App with Docker & Compose](https://github.com/ayesha9753/Flask-docker-app)  
 > A lightweight web app packaged with Docker and Docker Compose for easy deployment.
 
-🔹 [CI/CD Pipeline with GitHub Actions](https://github.com/YOUR-USERNAME/github-actions-pipeline)  
+🔹 [CI/CD Pipeline with GitHub Actions](https://github.com/ayesha9753/python-ci-demo)  
 > Fully automated build, test, and deploy process using GitHub Actions.
 
 🔹 [Azure VM Setup with Bash Automation](https://github.com/YOUR-USERNAME/azure-vm-project)  
