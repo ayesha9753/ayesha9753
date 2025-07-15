@@ -36,9 +36,8 @@ I’m open to opportunities that allow me to apply and grow my skills — whethe
 
 ## 📂 Featured Projects
 
-🔹 Virtual Proctoring System](https://github.com/ayesha9753/Virtual-Proctoring-System)
+🔹 [Virtual Proctoring System](https://github.com/ayesha9753/Virtual-Proctoring-System)
 AI-powered remote exam monitoring tool using YOLOv8, OpenCV, and Streamlit — detects faces, tracks activity, and flags suspicious behavior in real-time.
-
 
 🔹 [Flask App with Docker & Compose](https://github.com/YOUR-USERNAME/flask-docker-app)  
 > A lightweight web app packaged with Docker and Docker Compose for easy deployment.
