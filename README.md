@@ -102,7 +102,9 @@ I’m open to opportunities that allow me to apply and grow my skills — whethe
 
 📍 Based in Pakistan — Open to **on-site**, **hybrid**, or **remote** DevOps roles  
 📧 Email: Ayeshaimran9797@gmail.com 
+
 🔗 LinkedIn: https://www.linkedin.com/in/ayesha-imran-3a5265369/  
+
 🌐 Portfolio: https://ayesha9753.github.io/personal-site/
 
 ---
