@@ -31,6 +31,7 @@ I’m open to opportunities that allow me to apply and grow my skills — whethe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg=white)
 
 ---
 
