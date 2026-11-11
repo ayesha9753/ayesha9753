@@ -152,6 +152,10 @@ Smaller builds, learning labs and experiments — Flask + Docker apps, GitHub Ac
 
 <img src="https://streak-stats.demolab.com?user=ayesha9753&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/ayesha9753/ayesha9753/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+
 </div>
 
 ---
