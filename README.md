@@ -105,44 +105,16 @@ Smaller builds, learning labs and experiments — Flask + Docker apps, GitHub Ac
 
 ## 🛠 Skills & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,python,nginx,prometheus,grafana,azure,git" alt="Tech stack icons"/>
-
-</div>
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Cloud & Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Languages & Databases**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Monitoring & CI/CD**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+| Category | Stack |
+|---|---|
+| **Containers & Orchestration** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="38" alt="Docker · Kubernetes · Helm"/> &nbsp; Docker · Kubernetes · Helm |
+| **CI/CD & Automation** | <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" height="38" alt="GitHub Actions · GitLab CI · Jenkins"/> &nbsp; GitHub Actions · GitLab CI · Jenkins |
+| **Cloud Platforms** | <img src="https://skillicons.dev/icons?i=aws,azure" height="38" alt="AWS · Azure"/> &nbsp; AWS · Azure |
+| **Infrastructure as Code** | <img src="https://skillicons.dev/icons?i=terraform,ansible" height="38" alt="Terraform · Ansible"/> &nbsp; Terraform · Ansible |
+| **Monitoring & Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="38" alt="Prometheus · Grafana"/> &nbsp; Prometheus · Grafana |
+| **Languages & Scripting** | <img src="https://skillicons.dev/icons?i=python,bash,js" height="38" alt="Python · Bash · JavaScript"/> &nbsp; Python · Bash · JavaScript |
+| **Web & Databases** | <img src="https://skillicons.dev/icons?i=nginx,mysql,postgres,mongodb" height="38" alt="NGINX · MySQL · PostgreSQL · MongoDB"/> &nbsp; NGINX · MySQL · PostgreSQL · MongoDB |
+| **Systems & Tools** | <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" height="38" alt="Linux · Git · GitHub · VS Code · Postman"/> &nbsp; Linux · Git · GitHub · VS Code · Postman |
 
 ---
 
