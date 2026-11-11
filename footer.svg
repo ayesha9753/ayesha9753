@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="96" viewBox="0 0 1180 96">
+<defs><linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#2c5364"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#0f2027"/>
+</linearGradient></defs>
+<rect width="1180" height="96" rx="14" fill="url(#fg)"/>
+<text x="590" y="58" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" fill="#e6edf3">Let&#8217;s build something reliable.</text>
+</svg>

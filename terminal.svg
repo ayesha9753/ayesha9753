@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="394" viewBox="0 0 860 394">
+<rect width="860" height="394" rx="12" fill="#0d1117"/>
+<rect width="860" height="40" rx="12" fill="#161b22"/>
+<rect y="28" width="860" height="12" fill="#161b22"/>
+<circle cx="24" cy="20" r="6.5" fill="#ff5f57"/>
+<circle cx="48" cy="20" r="6.5" fill="#febc2e"/>
+<circle cx="72" cy="20" r="6.5" fill="#28c840"/>
+<text x="430" y="26" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">ayesha@devops: ~/profile</text>
+<text x="28" y="78" font-family="Consolas, Menlo, monospace" font-size="16.5" fill="#7ee0ff">$ whoami</text><text x="28" y="102" font-family="Consolas, Menlo, monospace" font-size="15.5" fill="#c9d1d9">ayesha-imran — DevOps and Cloud Engineer, Lahore PK</text><text x="28" y="140" font-family="Consolas, Menlo, monospace" font-size="16.5" fill="#7ee0ff">$ ayesha --stack</text><text x="28" y="164" font-family="Consolas, Menlo, monospace" font-size="15.5" fill="#c9d1d9">Docker · GitHub Actions · Terraform · AWS · Kubernetes</text><text x="28" y="202" font-family="Consolas, Menlo, monospace" font-size="16.5" fill="#7ee0ff">$ ayesha --certs</text><text x="28" y="226" font-family="Consolas, Menlo, monospace" font-size="15.5" fill="#c9d1d9">MS DevOps Expert · Azure Developer · RHCSA · AWS CP · OPSWAT</text><text x="28" y="264" font-family="Consolas, Menlo, monospace" font-size="16.5" fill="#7ee0ff">$ ayesha --status</text><text x="28" y="288" font-family="Consolas, Menlo, monospace" font-size="15.5" fill="#c9d1d9">open to work — roles and freelance projects</text><text x="28" y="326" font-family="Consolas, Menlo, monospace" font-size="16.5" fill="#7ee0ff">$ ayesha --deploy</text><text x="28" y="350" font-family="Consolas, Menlo, monospace" font-size="15.5" fill="#c9d1d9">[ok] zero downtime. every time.</text>
+<rect x="28" y="372" width="11" height="19" fill="#36BCF7" opacity="0.9"/>
+</svg>
