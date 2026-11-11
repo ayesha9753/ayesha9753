@@ -60,17 +60,20 @@ I'm open to opportunities that allow me to apply and grow my skills — whether 
 
 ## 📂 Featured Projects
 
-🔹 [Virtual Proctoring System](https://github.com/ayesha9753/Virtual-Proctoring-System)
-> AI-powered remote exam monitoring tool using YOLOv8, OpenCV, and Streamlit — detects faces, tracks activity, and flags suspicious behavior in real-time.
+🔹 [Zero-Downtime CI/CD on AWS ECS](https://github.com/ayesha9753/zero-downtime-cicd-ecs)
+> Fully automated pipeline with blue-green deployments on ECS Fargate — zero downtime during releases, automatic rollback on health-check failure.
 
-🔹 [Flask App with Docker & Compose](https://github.com/ayesha9753/Flask-docker-app)
-> A lightweight web app packaged with Docker and Docker Compose for easy deployment.
+🔹 [ShipStack — DevSecOps on AWS EKS](https://github.com/ayesha9753/shipstack-devsecops-eks)
+> Production-grade platform on Kubernetes (EKS) with a DevSecOps pipeline — infrastructure provisioned with Terraform, delivery managed through ArgoCD.
 
-🔹 [CI/CD Pipeline with GitHub Actions](https://github.com/ayesha9753/CI-CD-pipleline-using-git-actions)
-> Automated build, test, and deploy process using GitHub Actions.
+🔹 [Multi-Environment AWS Infrastructure with Terraform](https://github.com/ayesha9753/terraform-multi-env-aws)
+> Reusable Terraform modules provisioning dev, staging and production on AWS — automated plan/apply via GitHub Actions with manual approval gates for production.
 
-🔹 [NGINX Web App Setup](https://github.com/ayesha9753/my-nginx-app)
-> A simple web app deployment configured and served with NGINX.
+🔹 [Task API — Full CI/CD & IaC](https://github.com/ayesha9753/devops-cicd-terraform-demo)
+> End-to-end DevOps workflow for a REST API: Docker containerization, GitHub Actions CI/CD, and Terraform deployment to AWS.
+
+🔹 [CloudCart — Cloud-Native E-Commerce Platform](https://github.com/ayesha9753/CloudCart-Enterprise-Cloud-Native-E-Commerce-Platform)
+> E-commerce backend with REST APIs, authentication, containerization, CI/CD and cloud deployment.
 
 ---
 
@@ -85,4 +88,4 @@ I'm open to opportunities that allow me to apply and grow my skills — whether 
 
 ---
 
-📈 *Currently expanding into Kubernetes, Infrastructure as Code (Terraform), and monitoring with Prometheus & Grafana.*
+📈 *Open to freelance DevOps projects — Docker, CI/CD pipelines and AWS deployments. Message me on LinkedIn, or find me on Fiverr as ayesha_devops.*
