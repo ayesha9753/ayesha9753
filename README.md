@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ayesha%20Imran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%26%20Cloud%20Engineer%20—%20Docker%20·%20CI/CD%20·%20Terraform%20·%20AWS&descAlignY=56&descSize=15" width="100%" alt="Ayesha Imran — DevOps & Cloud Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ayesha%20Imran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20and%20Cloud%20Engineer%20-%20Docker%20%C2%B7%20CI%2FCD%20%C2%B7%20Terraform%20%C2%B7%20AWS&descAlignY=56&descSize=15" width="100%" alt="Ayesha Imran — DevOps & Cloud Engineer"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=I+deploy+web+apps+to+production;Docker+%2B+GitHub+Actions+CI%2FCD;Terraform+%E2%80%A2+AWS+%E2%80%A2+Kubernetes;Open+to+freelance+DevOps+projects" alt="What I do"/></a>
 
