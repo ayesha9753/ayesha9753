@@ -138,12 +138,9 @@ Smaller builds, learning labs and experiments — Flask + Docker apps, GitHub Ac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayesha9753&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha9753&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=ayesha9753&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
