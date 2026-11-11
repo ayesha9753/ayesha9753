@@ -19,6 +19,8 @@ I'm a **DevOps & Cloud Engineer** based in Lahore, Pakistan, with a solid founda
 
 Open to **on-site, hybrid or remote** DevOps roles — and to freelance deployment projects.
 
+> **Currently available** for freelance deployment projects — Docker, CI/CD pipelines, VPS and AWS deployments. Response within a day.
+
 ---
 
 ## 🚀 What I Do (Freelance Services)
@@ -102,6 +104,12 @@ Smaller builds, learning labs and experiments — Flask + Docker apps, GitHub Ac
 ---
 
 ## 🛠 Skills & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,python,nginx,prometheus,grafana,azure,git" alt="Tech stack icons"/>
+
+</div>
 
 **DevOps & Infrastructure**
 
