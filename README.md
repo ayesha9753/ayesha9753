@@ -106,6 +106,7 @@ Smaller builds, learning labs and experiments — Flask + Docker apps, GitHub Ac
 | 🏆 | **Red Hat Certified System Administrator (RHCSA)** | Red Hat |
 | 🏆 | **AWS Certified Cloud Practitioner** | Amazon Web Services |
 | 🏆 | **OPSWAT ICIP** — Critical Infrastructure Protection | OPSWAT |
+| 🐳 | **Docker Certified Associate** | Docker, Inc. |
 
 ---
 
