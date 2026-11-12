@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="terminal.svg" alt="Terminal introduction"/>
-
-</div>
-
 ## 👩‍💻 About Me
 
 I'm a **DevOps & Cloud Engineer** based in Lahore, Pakistan, with a solid foundation in cloud infrastructure, CI/CD pipelines, Linux systems and containerised deployments. I build practical, hands-on projects involving:
